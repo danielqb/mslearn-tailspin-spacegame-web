@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lucodan/Implement%20a%20code%20workflow%20with%20Git/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/lucodan/Implement%20a%20code%20workflow%20with%20Git/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
